@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#52718c"/></marker></defs>
+<rect width="1200" height="850" fill="#fff"/>
+<g font-family="Noto Sans CJK JP, sans-serif" fill="#193047">
+<text x="48" y="58" font-size="30" font-weight="700">音楽レコメンドを、聴いて育てる</text>
+<text x="48" y="92" font-size="17" fill="#546b7f">新しい音楽を知る → 実際に聴く → 反応を残す → 次の推薦へ</text>
+<g stroke="#d5e1eb" stroke-width="2">
+<rect x="50" y="130" width="320" height="95" rx="16" fill="#f1f6fa"/>
+<rect x="440" y="130" width="320" height="95" rx="16" fill="#f1f6fa"/>
+<rect x="830" y="130" width="320" height="95" rx="16" fill="#f1f6fa"/>
+<rect x="50" y="320" width="320" height="110" rx="16" fill="#e7f0fa"/>
+<rect x="440" y="320" width="320" height="110" rx="16" fill="#e7f6ef"/>
+<rect x="830" y="320" width="320" height="110" rx="16" fill="#fff0e5"/>
+<rect x="50" y="525" width="320" height="105" rx="16" fill="#f1f6fa"/>
+<rect x="440" y="525" width="320" height="105" rx="16" fill="#f1f6fa"/>
+<rect x="830" y="525" width="320" height="105" rx="16" fill="#fff0e5"/>
+<rect x="50" y="725" width="1100" height="78" rx="16" fill="#f9fafb"/>
+</g>
+<g font-size="22" font-weight="700" text-anchor="middle">
+<text x="210" y="169">音楽ニュース</text><text x="600" y="169">Cosenseの記録</text><text x="990" y="169">Last.fmの聴取履歴</text>
+<text x="210" y="363">ChatGPTが選ぶ</text><text x="600" y="363">Spotifyで聴く</text><text x="990" y="363">本人の反応</text>
+<text x="210" y="565">全曲アーカイブ</text><text x="600" y="565">厳選した聴き返し</text><text x="990" y="565">Cosenseへ記録</text>
+</g>
+<g font-size="16" text-anchor="middle" fill="#466078">
+<text x="210" y="199">新譜・地域・制作・文化</text>
+<text x="600" y="199">設定／現在の嗜好／原文の感想</text>
+<text x="990" y="199">自作MCPで曲と時刻を読む</text>
+<text x="210" y="393">ニュース解説＋対応する実在曲</text>
+<text x="600" y="393">日次便・保存・実収録確認</text>
+<text x="990" y="393">Liked／感想／再生の記録</text>
+<text x="210" y="596">未試聴・未保存の曲も残す</text>
+<text x="600" y="596">Liked OR 明確な好反応</text>
+<text x="990" y="596">観測・解釈・定着度を分ける</text>
+</g>
+<g fill="none" stroke="#52718c" stroke-width="3" marker-end="url(#arrow)">
+<path d="M210 225V307"/>
+<path d="M600 225V267H310V307"/>
+<path d="M990 225V250H340V307"/>
+<path d="M370 375H427"/>
+<path d="M760 375H817"/>
+<path d="M990 430V512"/>
+<path d="M500 430V472H210V512"/>
+<path d="M600 430V512"/>
+<path d="M830 580H790V682H26V273H80V307"/>
+</g>
+<g font-size="15" fill="#546b7f">
+<text x="430" y="259">好みと実聴取を参照</text>
+<text x="42" y="674">反応を次回へ戻す（弱い反復信号は、厳選への自動追加と分ける）</text>
+<text x="78" y="757">直近3便とも配信後の再生がなければ、その回の新規ニュース＋プレイリストを休止。</text>
+<text x="78" y="783">同期不足や本人の聴取申告を確認し、未再生を曲への負評価にはしない。</text>
+</g></g></svg>

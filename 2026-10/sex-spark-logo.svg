@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570" role="img" aria-labelledby="title desc">
+<title id="title">SEX Spark concept logo</title>
+<desc id="desc">An angular black and electric-magenta SEX Spark wordmark with a four-point spark motif.</desc>
+<defs>
+ <linearGradient id="pink" x1="0" x2="0.95" y1="0" y2="1"><stop offset="0" stop-color="#ff4f9b"/><stop offset=".48" stop-color="#ee0e6b"/><stop offset="1" stop-color="#aa0047"/></linearGradient>
+ <linearGradient id="ink" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#333842"/><stop offset=".58" stop-color="#080a0d"/><stop offset="1" stop-color="#23262d"/></linearGradient>
+</defs>
+<rect width="1200" height="570" fill="white"/>
+<g transform="skewX(-10)">
+ <text x="222" y="306" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="252" font-weight="900" letter-spacing="-20" fill="url(#ink)">SE<tspan fill="url(#pink)">X</tspan></text>
+ <text x="302" y="459" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="135" font-weight="900" letter-spacing="4" fill="url(#ink)">SPARK</text>
+</g>
+<path d="M911 115 C920 217 928 226 1040 237 C929 249 920 260 911 361 C902 260 893 249 782 237 C893 226 902 217 911 115Z" fill="url(#pink)"/>
+<path d="M1030 148 C1033 177 1039 183 1071 186 C1039 189 1033 195 1030 224 C1027 195 1021 189 989 186 C1021 183 1027 177 1030 148Z" fill="#f9a5cd"/>
+<path d="M160 496 H941" stroke="#d9dce2" stroke-width="3"/>
+<path d="M160 496 H366" stroke="#e60765" stroke-width="5"/>
+</svg>
